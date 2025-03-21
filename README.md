@@ -23,7 +23,7 @@ Conociendo  técnicas y herramientas del rol de Product Owner
 
 **Equipo:** 
 
-- [Angie Isabella Valdivia Wong](www.linkedin.com/in/chavelaa)  
+- [Angie Isabella Valdivia Wong](https://www.linkedin.com/in/chavelaa/)  
 - [Gabriel Caparruva](https://www.linkedin.com/in/gabriel-caparruva-1a4a8a22/)  
 - [Melina Acosta](https://www.linkedin.com/in/melina-acosta/)  
 - [Sabrina Benchoam](https://www.linkedin.com/in/sabrina-benchoam/)  
